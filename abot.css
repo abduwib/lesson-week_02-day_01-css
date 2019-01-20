@@ -1,0 +1,28 @@
+*{
+    font-family: 'Lobster Two', cursive;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h3{
+    font-size: 25px;
+}
+img.logo{
+    float: left;
+
+    
+
+}
+img.beast{
+    float: center;
+    border: 1px;
+    height: 300px;
+    
+}
+.idk-button{
+    color: #119977;
+    background-color: #99ff;
+    size: 300px
+}

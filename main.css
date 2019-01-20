@@ -1,0 +1,49 @@
+.logo{
+    float: right;
+    border: 1px;
+    height: 300px;
+}
+
+h1{
+    font-size: 32px;
+    color: silver;
+    text-align: center;
+    clear: both;
+}
+
+h2{
+    font-size: 23px;
+    color: darkslategray
+
+}
+
+nav a{
+    color: seagreen
+}
+
+nav li{
+    padding: 0 10px;
+    padding-bottom: 20px;
+    display: inline;
+}
+
+li a{
+    color: skyblue
+}
+
+
+.submit-button{
+    color: yellow;
+    background-color: darkslategrey;
+}
+button{
+    font-size: 32px;
+    margin:12px;
+    padding: 12px;
+    border: 2px solid grey;
+}
+
+#week01{
+    background-color: bisque
+}
+
